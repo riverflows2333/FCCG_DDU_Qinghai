@@ -4,7 +4,6 @@ This repository contains the supplementary data and system topology for the rese
 
 **Title:** Two-stage Robust Security-Constrained Unit Commitment for Wind Power Reserve Provision Optimization Under Decision-dependent Uncertainty  
 **Journal:** IET Generation, Transmission & Distribution  
-**Authors:** Yuzheng Liu, Tao Ding, Yujie Ding, Biyuan Zhang, Shengjie Wang, Xuebin Wang
 
 ## Repository Structure
 
