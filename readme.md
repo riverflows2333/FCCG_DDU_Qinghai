@@ -25,6 +25,6 @@ The repository is organized as follows:
 
 The dataset provided in the data/ folder corresponds to the Qinghai Power Grid test case discussed in the manuscript.
 
-System Scale: 298 buses, 331 transmission lines, 41 thermal generators, and 14 renewable energy stations.
-Scenario: The load and wind power profiles represent a typical winter day, characterized by high heating demand and significant wind power variability.
-Topology: Please refer to topology.svg for a visual representation of the backbone network.
+- System Scale: 298 buses, 331 transmission lines, 41 thermal generators, and 14 renewable energy stations.
+- Scenario: The load and wind power profiles represent a typical winter day, characterized by high heating demand and significant wind power variability.
+- Topology: Please refer to topology.svg for a visual representation of the backbone network.
