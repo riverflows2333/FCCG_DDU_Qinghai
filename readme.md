@@ -12,7 +12,7 @@ The repository is organized as follows:
 ```text
 .
 ├── README.md               # This file
-├── topology.svg            # Simplified topology diagram of the Qinghai test system
+├── topology.svg            # Simplified topology diagram of the test system
 └── data/                   # Dataset used in the case study
     ├── Thermal_Gen_Params.xlsx   # Parameters of 41 thermal generators 
     ├── Trans_Line_Params.xlsx    # Parameters of 331 transmission lines 
@@ -22,7 +22,7 @@ The repository is organized as follows:
 
 ## Data Description
 
-The dataset provided in the data/ folder corresponds to the Qinghai Power Grid test case discussed in the manuscript.
+The dataset provided in the data/ folder corresponds to the real power grid test case discussed in the manuscript.
 
 - System Scale: 298 buses, 331 transmission lines, 41 thermal generators, and 14 renewable energy stations.
 - Scenario: The load and wind power profiles represent a typical winter day, characterized by high heating demand and significant wind power variability.
